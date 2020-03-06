@@ -74,7 +74,7 @@ Note: There are two kinds of propellers, the clock wise (CW) and counter clock w
 Also make sure that the correct side is facing up, the top side should be convex.
 
 Here’s a detailed view of where to attach CW and CCW propellers.
-
+![image](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/raw/master/images/cf2_props.png)
 
 
 platform Mac or virtual machine
