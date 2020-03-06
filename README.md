@@ -20,7 +20,7 @@ group member:
 
 ====================================
 
-## crazyflie Setup
+## [crazyflie Setup](https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/)
 
 Setup crazyflie
 
