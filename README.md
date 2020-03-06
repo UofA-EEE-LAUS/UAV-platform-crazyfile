@@ -1,4 +1,5 @@
 <p>
+<img src="https://img.shields.io/github/repo-size/UofA-EEE-LAUS/UAV-platform-crazyfile" alt="repo size">
 <img src="https://img.shields.io/badge/platform-MacOS 10.15.3-blue" alt="platform">
 <img src="https://img.shields.io/badge/platform-XUbuntu 2018.04-blue" alt="platform">
 <p>
