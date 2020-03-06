@@ -4,12 +4,14 @@
 <img src="https://img.shields.io/badge/platform-XUbuntu 2018.04-blue" alt="platform">
 <p>
 # UAV-platform-crazyfile
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/University-of-Adelaide-Logo.svg/220px-University-of-Adelaide-Logo.svg.png" alt="uni logo">
-University of Adelaide Summer Research Internship 2019
 
-group member:  Zhihan Xu
-                           Ruoshi Sun
-                           Ziming Wang
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/University-of-Adelaide-Logo.svg/220px-University-of-Adelaide-Logo.svg.png" alt="uni logo">
+ 
+**University of Adelaide Summer Research Internship 2019**
+
+**group member:  Zhihan Xu
+                 Ruoshi Sun
+                 Ziming Wang
               
 
 ====================================
