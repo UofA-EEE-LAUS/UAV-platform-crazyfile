@@ -1,5 +1,7 @@
+<p>
 <img src="https://img.shields.io/badge/platform-MacOS 10.15.3-blue" alt="platform">
 <img src="https://img.shields.io/badge/platform-XUbuntu 2018.04-blue" alt="platform">
+<p>
 # UAV-platform-crazyfile
 University of Adelaide Summer Research Internship 2019
 
