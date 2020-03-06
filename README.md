@@ -11,16 +11,16 @@
 **University of Adelaide Summer Research Internship 2019**
 
 group member: 
-*Zhihan Xu*
-               *Ruoshi Sun*
-              *Ziming Wang*
+*Zhihan Xu，
+               Ruoshi Sun，
+              Ziming Wang*
                  
             
               
 
 ====================================
 
-## [crazyflie Setup](https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/#unpacking-the-crazyflie)
+## crazyflie Setup
 
 Setup crazyflie
 
