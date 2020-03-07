@@ -314,18 +314,18 @@ Note: You must have the specific python versions on your machine or tests will f
 ## For our project, we will use both [flow deck](https://www.bitcraze.io/flow-deck/) and [multiranger deck](https://www.bitcraze.io/multi-ranger-deck/).
 
 
-## formation-control
+## [formation-control](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/tree/master/formation-control)
 
 Some simple python control script to control the crazyflie.
 
-## firmware-change
+## [firmware-change](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/tree/master/firmware-change)
 
 Some firmware change in c language to achieve some automous functions.
 
-## simple-gui
+## [simple-gui](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/tree/master/crazyflies-simple-gui)
 
 Modified simple gui to control the crazyflie.
 
-## modelling
+## [modelling](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/tree/master/modelling)
 
 V-rep model of the crazyflies.
