@@ -48,7 +48,7 @@ Note: If you are developing for the [cfclient][cfclient] you must use python3. O
 ## About URI 
 each crazyflie has a URI, you could check the URI by connecting it to python client. The default one is E7E7E7E7E7. 
 
-You could change the URI by following these steps:
+### You could change the URI by following these steps:
 * 1.Unplug your Crazyradio
 * 2.Start the Crazyflie
 * 3.Connect the Crazyflie with USB cable
@@ -62,7 +62,7 @@ You could change the URI by following these steps:
 * 11.Restart the Crazyflie
 * 12.Reconnect by clicking Connect
 * 13.Reopen the Config dialog
-If you have the new address, the procedure to connect using the radio should be:
+### If you have the new address, the procedure to connect using the radio should be:
 * 1.Close the client
 * 2.Disconnect the USB cable
 * 3.Plug in the radio again
