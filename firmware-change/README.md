@@ -1,9 +1,37 @@
-Use Guide
+# Use Guide
 ============
 
 author: Zhihan Xu
 
-This is the user guide for changing the firmware to achieve certain autonomous functions.
+* This is the user guide for changing the firmware to achieve certain autonomous functions.
+
+## download firmware for development
+
+You could fork and clone the firware [here.](https://github.com/bitcraze/crazyflie-firmware)
+
+### Cloning
+
+This repository uses git submodules. Clone with the `--recursive` flag
+
+```bash
+git clone --recursive https://github.com/bitcraze/crazyflie-firmware.git
+```
+
+If you already have cloned the repo without the `--recursive` option, you need to
+get the submodules manually
+
+```bash
+cd crazyflie-firmware
+git submodule init
+git submodule update
+```
+
+
+### For Mac
+
+
+
+
 
 ## sequence.c
 
