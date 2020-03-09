@@ -141,6 +141,6 @@ Read more information in push folder
 ## Stop-at-obsticle
 The function works during all the running time, which was written in high-level-command. 
 
-In order to achieve the function, you could follow the steps in push folder read.me file. In addition to that, you need to use the push.c in stop-at-obsticle folder instead of the one in push folder. Replace the crtp_commander_high_level.c and crtp_commander_high_level.h files with the original ones in the crazyflie-firmware/src/modules/src and crazyflie-firmware/src/modules/interface.
+In order to achieve the function, you could follow the steps in push folder readme file. In addition to that, you need to use the push.c in stop-at-obsticle folder instead of the one in push folder. Replace the crtp_commander_high_level.c and crtp_commander_high_level.h files with the original ones in the crazyflie-firmware/src/modules/src and crazyflie-firmware/src/modules/interface.
 
-simple.py is an example to control the crazyflie to move forward for 1 meter, you need crazyflie python library to use this script. You could follow the steps in [formation-control](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/tree/master/formation-control) folder read.me file.
+simple.py is an example to control the crazyflie to move forward for 1 meter, you need crazyflie python library to use this script. You could follow the steps in [formation-control](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/tree/master/formation-control) folder readme file.
