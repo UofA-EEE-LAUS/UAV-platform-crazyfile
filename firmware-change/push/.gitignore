@@ -1,0 +1,7 @@
+bin/*
+
+/cf2.*
+/tag.*
+*.gch
+
+current_platform.mk
