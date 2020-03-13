@@ -38,6 +38,7 @@ Note: If you are developing for the [cfclient][cfclient] you must use python3. O
 * put the py file under python library folder. Normally put it at crazyflie-lib-python/examples/swarm
 * This funtion needs flow deck to function. 
 * One crazyflie will fly in circle while the other one rotating in the middle.
+* Crazyflies need to be written into different addresses, the method is indicated below.
 
 ## initial_position.py
 * put the py file under python library folder. Normally put it at crazyflie-lib-python/examples/
@@ -46,7 +47,15 @@ Note: If you are developing for the [cfclient][cfclient] you must use python3. O
 * It will draw a UoFA logo. It could also fly by giving xyz corrdinates if you uncommented [line 127 to line 134](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/blob/380ad4ca1a0bd42ae11431eedf27d36eab3a2678/formation-control/initial_position.py#L127-L134) and commented the [line 17 to line 43](https://github.com/UofA-EEE-LAUS/UAV-platform-crazyfile/blob/380ad4ca1a0bd42ae11431eedf27d36eab3a2678/formation-control/initial_position.py#L17-L43). All the coordinates are calculated by kalman filter from informatin gathered by flow deck.
 
 ## About URI 
-each crazyflie has a URI, you could check the URI by connecting it to python client. The default one is E7E7E7E7E7. 
+Uniform Resource Identifier (URI)
+All communication links are identified using an URI build up of the following: InterfaceType://InterfaceId/InterfaceChannel/InterfaceSpeed
+
+Currently only radio and debug interfaces are used but there's ideas for more like udp, serial, usb, etc…Here are some examples:
+
+Radio interface, USB dongle number 0, radio channel 10 and radio speed 250 Kbit/s: radio://0/10/250K
+Debug interface, id 0, channel 1: debug://0/1
+
+The default one is E7E7E7E7E7. 
 
 ### You could change the URI by following these steps:
 * 1.Unplug your Crazyradio
